@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rust-minigrep"
+name = "minigrep"
 version = "0.1.0"
